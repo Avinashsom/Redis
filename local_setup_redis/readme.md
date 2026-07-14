@@ -1,0 +1,1 @@
+#this is setup of redis and docker.
